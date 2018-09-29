@@ -1,0 +1,1 @@
+Main-Class: /Users/nursat/workspace/1lab/arrays.class 

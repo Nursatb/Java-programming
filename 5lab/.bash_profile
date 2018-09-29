@@ -1,0 +1,1 @@
+export PATH=/Users/nursat/workspace/lab5:/Users/nursat/workspace/LAB5:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/nursat/workspace/lab5

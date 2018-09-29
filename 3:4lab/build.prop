@@ -1,0 +1,8 @@
+#This is the propetries for Apache Ant
+<property name="src.dir" location="${basedir}/src"/>
+<property name="build" location="${basedir}/build"/>
+<property name="build.classes" location="${build}/classes"/>
+<property name="build.test" location="${build}/tests"/>
+<property name="test" location="${basedir}/test"/>
+<property name="cmdmusic" value="mplayer"/>
+<property name="cmdgit" value="git checkout"/>

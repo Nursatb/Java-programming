@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab6_serv">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="lab6_serv.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="lab6" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/dt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/sa-jdi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/jconsole.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/packager.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/javafx-mx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/ant-javafx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/lib/apache-ant-1.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
